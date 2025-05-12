@@ -8,10 +8,10 @@
 **주제 설정**
 ![Image](https://github.com/user-attachments/assets/9446dd0e-7e76-4d92-a629-c09fdd12b9ae)
 
-**주제 설정**
+**제작 도구**
 ![Image](https://github.com/user-attachments/assets/f5ce64b5-2324-4faa-a210-da8cfe066bbd)
 
-**제작 도구**
+
 ![Image](https://github.com/user-attachments/assets/bbcc8d1b-b741-431c-bd40-e1b1115e5188)
 
 **화면 설계**
