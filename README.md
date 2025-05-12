@@ -5,7 +5,7 @@
 **목차**
 ![Image](https://github.com/user-attachments/assets/f5d62140-6ee4-4154-8c8b-808bef40e599)
 
-**굵은 글씨**
+**주제 설정**
 ![Image](https://github.com/user-attachments/assets/9446dd0e-7e76-4d92-a629-c09fdd12b9ae)
 
 **주제 설정**
