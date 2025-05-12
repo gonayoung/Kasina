@@ -11,10 +11,10 @@
 **제작 도구**
 ![Image](https://github.com/user-attachments/assets/f5ce64b5-2324-4faa-a210-da8cfe066bbd)
 
-
+**화면 설계**
 ![Image](https://github.com/user-attachments/assets/bbcc8d1b-b741-431c-bd40-e1b1115e5188)
 
-**화면 설계**
+
 ![Image](https://github.com/user-attachments/assets/9d06bcc3-88f0-4fc8-9bc4-fa7b0639a4fc)
 
 ![Image](https://github.com/user-attachments/assets/aed4359f-acd9-4ef9-9527-3511ce94181e)
